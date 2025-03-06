@@ -31,7 +31,7 @@ function CountdownTimer() {
 
   return (
     <div style={{ textAlign: 'center', padding: '20px' }}>
-      <h1>Dunkku Countdown </h1>
+      <h1>Dunkku Countdown 🐉 </h1>
       <h2>
         {timeLeft.days}d {timeLeft.hours}h {timeLeft.minutes}m{' '}
         {timeLeft.seconds}s
