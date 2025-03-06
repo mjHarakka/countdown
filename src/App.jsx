@@ -1,5 +1,5 @@
 import './App.css'
-import Countdown from './components/Countdown.jsx'
+import Countdown from './components/CountdownTimer.jsx'
 
 const App = () => {
   return (
