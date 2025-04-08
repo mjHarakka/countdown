@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 
-function CountdownTimer() {
+const CountdownTimer = () => {
   const futureDate = new Date('2025-03-27T16:00:00')
 
   const calculateTimeLeft = () => {
